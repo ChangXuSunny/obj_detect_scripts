@@ -1,0 +1,6 @@
+classes= 8
+train = /home/bjxchang/dataset/india/India_obj.txt
+valid = /home/bjxchang/dataset/india/India_obj.txt
+names = /home/bjxchang/dataset/india/india.names
+backup = backup
+
